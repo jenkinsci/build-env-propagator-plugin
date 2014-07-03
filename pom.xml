@@ -29,9 +29,9 @@
   </licenses>
 
   <scm>
-    <connection>scm:git:ssh://github.com/jenkinsci/envpropagator.git</connection>
-    <developerConnection>scm:git:ssh://git@github.com/jenkinsci/envpropagator.git</developerConnection>
-    <url>https://github.com/jenkinsci/envpropagator</url>
+    <connection>scm:git:ssh://github.com/jenkinsci/build-env-propagator.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/jenkinsci/build-env-propagator.git</developerConnection>
+    <url>https://github.com/jenkinsci/build-env-propagator-plugin</url>
   </scm>
 
   <!-- get every artifact through repo.jenkins-ci.org, which proxies all the artifacts that we need -->
