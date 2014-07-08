@@ -7,7 +7,7 @@
   </parent>
 
   <artifactId>build-env-propagator</artifactId>
-  <version>1.0</version>
+  <version>1.1-SNAPSHOT</version>
   <packaging>hpi</packaging>
 
   <developers>
@@ -32,7 +32,7 @@
     <connection>scm:git:git@github.com:jenkinsci/build-env-propagator-plugin.git</connection>
     <developerConnection>scm:git:git@github.com:jenkinsci/build-env-propagator-plugin.git</developerConnection>
     <url>https://github.com/jenkinsci/build-env-propagator-plugin</url>
-    <tag>build-env-propagator-1.0</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <build>
