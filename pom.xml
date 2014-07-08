@@ -29,7 +29,7 @@
   </licenses>
 
   <scm>
-    <connection>scm:git:git://github.com/jenkinsci/build-env-propagator-plugin.git</connection>
+    <connection>scm:git:git@github.com:jenkinsci/build-env-propagator-plugin.git</connection>
     <developerConnection>scm:git:git@github.com:jenkinsci/build-env-propagator-plugin.git</developerConnection>
     <url>https://github.com/jenkinsci/build-env-propagator-plugin</url>
   </scm>
