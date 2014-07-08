@@ -37,7 +37,6 @@
 
   <build>
     <plugins>
-      <!-- TODO https://trello.com/c/U30QZmx7/43-plugin-parent-pom-needs-to-interpret-java-level replace with java.level=6 once plugin parent POM groks this: -->
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
         <configuration>
