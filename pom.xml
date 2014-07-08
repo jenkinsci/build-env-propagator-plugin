@@ -29,8 +29,8 @@
   </licenses>
 
   <scm>
-    <connection>scm:git:ssh://github.com/jenkinsci/build-env-propagator.git</connection>
-    <developerConnection>scm:git:ssh://git@github.com/jenkinsci/build-env-propagator.git</developerConnection>
+    <connection>scm:git:git://github.com/jenkinsci/build-env-propagator-plugin.git</connection>
+    <developerConnection>scm:git:git@github.com:jenkinsci/build-env-propagator-plugin.git</developerConnection>
     <url>https://github.com/jenkinsci/build-env-propagator-plugin</url>
   </scm>
 
